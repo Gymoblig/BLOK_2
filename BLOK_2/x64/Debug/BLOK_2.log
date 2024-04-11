@@ -1,0 +1,62 @@
+﻿  BLOK_2.c
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(16,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(18,13): error C2065: 'mov': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(18,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(18,16): error C2065: 'eax': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(19,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(19,13): error C2065: 'mov': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(19,13): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(19,16): error C2065: 'ebx': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(20,9): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(20,13): error C2065: 'add': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(20,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(20,16): error C2065: 'eax': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(21,9): error C2065: 'ebx': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(21,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(21,13): error C2065: 'mov': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(21,13): error C2146: syntax error: missing ';' before identifier 'vysledok'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(22,5): error C2065: 'eax': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(22,5): error C2143: syntax error: missing ';' before '}'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(35,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(36,13): error C2065: 'mov': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(36,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(36,16): error C2065: 'eax': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(37,9): error C2146: syntax error: missing ';' before identifier 'shl'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(37,13): error C2065: 'shl': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(37,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(37,16): error C2065: 'eax': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(38,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(38,13): error C2065: 'mov': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(38,13): error C2146: syntax error: missing ';' before identifier 'vysledok'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(39,5): error C2065: 'eax': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(39,5): error C2143: syntax error: missing ';' before '}'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(50,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(51,13): error C2065: 'mov': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(51,13): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(51,16): error C2065: 'eax': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(52,9): error C2146: syntax error: missing ';' before identifier 'cpuid'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(53,9): error C2065: 'cpuid': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(53,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(53,13): error C2065: 'mov': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(53,13): error C2146: syntax error: missing ';' before identifier 'dword'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(53,19): error C2065: 'dword': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(53,19): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(53,23): error C2065: 'ptr': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(54,9): error C2065: 'eax': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(54,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(54,13): error C2065: 'mov': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(54,13): error C2146: syntax error: missing ';' before identifier 'dword'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(54,19): error C2065: 'dword': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(54,19): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(54,23): error C2065: 'ptr': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(55,9): error C2065: 'edx': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(55,9): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(55,13): error C2065: 'mov': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(55,13): error C2146: syntax error: missing ';' before identifier 'dword'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(55,19): error C2065: 'dword': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(55,19): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(55,23): error C2065: 'ptr': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(56,9): error C2065: 'ecx': undeclared identifier
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(56,9): error C2146: syntax error: missing ';' before identifier 'not_supported'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(57,5): error C2143: syntax error: missing ';' before '}'
+C:\Users\MATÚŠ\source\repos\BLOK_2\BLOK_2\BLOK_2.c(96,5): warning C4098: 'main': 'void' function returning a value
